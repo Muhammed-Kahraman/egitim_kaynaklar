@@ -9,3 +9,40 @@ p{
     padding: 25px;
     margin: 0 200px;
 }
+.blog-post{
+    background-color: beige;
+    padding:15px;
+    width: 300px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 5px rgba(0,0,0,0.2);
+    text-align: center;
+    
+}
+button{
+    height: 30px;
+    width: 100px;
+    text-align: center;
+    background-color:bisque;
+    border-color: bisque;
+    border-radius: 5px;
+}
+button:hover 
+{
+    width: 120px;
+    height: 35px;
+}
+.blog-post h2:hover
+{   
+    color: brown;
+}
+.blog-post h3:focus
+{   
+    color: red;
+}
+main {
+    display: flex;
+    justify-content: center;
+
+    
+}

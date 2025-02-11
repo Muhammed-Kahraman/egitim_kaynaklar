@@ -1,0 +1,11 @@
+body {background-color: #DCD7C9;}
+
+p{
+    font-size: 25px;
+    color:brown;
+}
+.header tr th {
+    background-color: beige;
+    padding: 25px;
+    margin: 0 200px;
+}
